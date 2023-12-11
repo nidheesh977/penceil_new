@@ -1,6 +1,12 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/header": "pages/header.html",
+  "/contact-us": "pages/contact-us.html",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.html",
+  "/projects": "pages/projects.html",
+  "/services": "pages/services.html",
+  "/404": "pages/404.html"
 }

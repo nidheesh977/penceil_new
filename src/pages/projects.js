@@ -15,7 +15,6 @@ function Projects() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header />
       <section className="page_section">
         <Container>
           <h3>PROJECTS</h3>

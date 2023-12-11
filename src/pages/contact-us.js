@@ -64,7 +64,6 @@ function ContactUs() {
 
   return (
     <>
-      <Header />
       <section className="page_section">
         <Container>
           <h3 style={{ margin: "40px 0px" }}>CONTACT US</h3>

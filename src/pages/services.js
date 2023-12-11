@@ -14,7 +14,6 @@ function Services() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header />
       <section className="page_section">
         <Container>
           <Grid>
@@ -25,7 +24,7 @@ function Services() {
               <p>01</p>
               <h3>GRAPHIC DESIGNING </h3>
               <p>
-                AS ONE OF INDIA'S BEST GRAPHIC DESIGN COMPANIES, WE TRANSFORM
+                AS ONE OF INDIA&apos;S BEST GRAPHIC DESIGN COMPANIES, WE TRANSFORM
                 IDEAS INTO HIGH-QUALITY, INDUSTRY-LEADING PROJECTS. OUR
                 BANGALORE AGENCY PROVIDES EXCELLENT UI/UX DESIGN THROUGH
                 INNOVATIVE MECHANISMS AND STRONG CLIENT RELATIONSHIPS. WE AIM TO
